@@ -80,6 +80,9 @@ Two Python scripts are required to test Modbus communication:
 
 ### 2.2 Script Descriptions
 
+<img width="267" height="405" alt="image" src="https://github.com/user-attachments/assets/be242a84-f126-4c9b-a2e3-fc84d4cfa186" />
+
+
 #### servidor.py
 
 * Acts as a Modbus server
@@ -169,6 +172,9 @@ After installation, a ScadaBR icon will appear on your desktop. Click it to laun
 
    * Username: `admin`
    * Password: `admin`
+   * 
+<img width="982" height="441" alt="image" src="https://github.com/user-attachments/assets/c16313ef-2706-4675-9880-7a99035d1ea3" />
+
 
 ---
 
@@ -178,6 +184,9 @@ After installation, a ScadaBR icon will appear on your desktop. Click it to laun
 2. Select **Modbus IP**
 3. Click **Add**
 
+<img width="1004" height="467" alt="image" src="https://github.com/user-attachments/assets/9f3a9a0e-7a16-469e-b8be-7150aeaae647" />
+
+
 Configure the datasource:
 
 * **Name:** teste
@@ -186,6 +195,8 @@ Configure the datasource:
 * **Port:** 5028
 
 Click **Save**, then **Enable** the datasource.
+
+<img width="1019" height="466" alt="image" src="https://github.com/user-attachments/assets/541f861a-8af7-457e-9246-f00762f84bd7" />
 
 ---
 
@@ -199,6 +210,9 @@ Click **Save**, then **Enable** the datasource.
 
 Save and enable the datapoint.
 
+<img width="991" height="469" alt="image" src="https://github.com/user-attachments/assets/e7079db9-9201-4cf3-8adf-b0be59a551ac" />
+
+
 #### Datapoint 2
 
 * Name: `var_2`
@@ -208,6 +222,8 @@ Save and enable the datapoint.
 
 Save and enable the datapoint.
 
+<img width="1004" height="468" alt="image" src="https://github.com/user-attachments/assets/a4314ffb-3d9a-4e2d-9c2c-94b75b97e58e" />
+
 ---
 
 ## 5. Watchlist Visualization
@@ -215,6 +231,8 @@ Save and enable the datapoint.
 1. Open the **Watchlist**
 2. Verify that the datapoints appear
 3. Click the green arrows to monitor real-time values
+
+<img width="972" height="441" alt="image" src="https://github.com/user-attachments/assets/c7712333-4323-4bf2-9a64-caa2ab6aefa1" />
 
 ---
 
